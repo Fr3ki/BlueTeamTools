@@ -9,6 +9,6 @@ checkip - Use the VirusTotal and AbuseIPDB APIs to quickly do OSINT on potential
 
 ----------------------------------------------------------------------------------------------------
 
-More tools will be added as I create them during my cyber adventures! Feel free to leave any feedback in comments, or at my twitter @Fr3ki_ https://twitter.com/Fr3ki_
+More tools will be added as I create them during my cyber adventures! Feel free to leave any feedback in comments, or at my twitter @Fr3ki_
 
 Licence: https://www.gnu.org/licenses/gpl-3.0.html 
