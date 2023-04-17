@@ -4,7 +4,7 @@
 
 Tools:
 
-checkip - Use the VirusTotal and AbuseIPDB APIs to quickly do OSINT on potentially suspicious IPs
+checkip - Use the VirusTotal, AbuseIPDB, or URLScan APIs to quickly do OSINT on potentially suspicious IPs or URLs
 
 
 ----------------------------------------------------------------------------------------------------
